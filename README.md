@@ -10,9 +10,9 @@
 Download using pip via pypi.
 
 ```bash
-$ pip install 'package' --upgrade
+$ pip install pygifconvt_mg --upgrade
   or
-$ pip install git+'repository'
+$ pip install git+ https://github.com/kmg6522/pygifconvt_mg.git
 ```
 (Mac/homebrew users may need to use ``pip3``)
 
